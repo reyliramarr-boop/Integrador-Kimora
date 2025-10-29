@@ -1,0 +1,15 @@
+Participante,Edad,Género,Calificación (Alga completa),Calificación (Poca alga),Preferencia final,Comentarios
+1,19,F,4,5,Poca alga,El sabor se siente más equilibrado.
+2,22,M,3,5,Poca alga,La textura es más agradable.
+3,25,F,4,4,Igual,"Ambos están ricos, pero el de poca alga es más fácil de comer."
+4,18,F,3,4,Poca alga,El alga completa tiene sabor muy fuerte.
+5,27,M,5,4,Completa,"Prefiero el tradicional, se siente más japonés."
+6,30,F,4,5,Poca alga,El de poca alga tiene mejor presentación.
+7,20,M,3,5,Poca alga,Más ligero y menos salado.
+8,24,F,4,5,Poca alga,Visualmente más apetecible.
+9,21,M,5,4,Completa,Prefiero la versión clásica.
+10,26,F,3,5,Poca alga,El sabor del arroz resalta más.
+,,,,,,
+,,,,,,
+Tabla 2,,,,,,
+,Promedio de calificación,% de preferencia,,,,
